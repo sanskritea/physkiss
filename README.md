@@ -11,7 +11,7 @@ Contains schedule, slides and resources from journal club proceedings starting 3
         }
 </style>
 
-**Schedule:**
+**Schedule:**<br>
 |----|----|---|
 |**S. No.**|**Topic**|**Date**|
 |----------|---------|--------|
