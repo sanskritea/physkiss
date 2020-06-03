@@ -13,8 +13,22 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+
+div.transbox {
+  margin: 40px;
+  background-color: black;
+  border: 0px solid black;
+  opacity: 0.5;
+}
+
+div.transbox p {
+  margin: 10%;
+  font-weight: bold;
+  color: #000000;
+}    
 </style>
     
+  
   <style>
 table {
   font-family: serif;
@@ -29,12 +43,12 @@ th, td {
 }
 
 tr:nth-child(even) {
-  background-color: #cfe2f3;
+  <! background-color: #cfe2f3; >
   color: #434343
 }
 
 tr:nth-child(odd) {
-  background-color: #ead1dc;
+  <! background-color: #ead1dc; >
   color: #434343;
 }
 
@@ -57,7 +71,7 @@ th {
     <h1 style="color:white;">Schedule and Program</h1>
   </header>
   
-<!\ >
+<div class="transbox">
 <table>
   <tr>
     <th>S. No</th>
@@ -85,7 +99,7 @@ th {
     <td>TBA</td>
   </tr>
 </table>  
-  
+</div>
   
 </article>  
   
