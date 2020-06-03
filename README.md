@@ -6,7 +6,7 @@ Contains schedule, slides and resources from journal club proceedings starting 3
 <br>
 
 **Schedule:**
-|**S. No.**|**Topic**|**Date**|
-|----------|---------|--------|
-|1  | Quantum computing with electrons on Helium|03/06/20|
-|2 | Bayesian Inference| *TBA* |
+|**S. No.**|**Topic**|**Date**|<br>
+|----------|---------|--------|<br>
+|1  | Quantum computing with electrons on Helium|03/06/20|<br>
+|2 | Bayesian Inference| *TBA* |<br>
