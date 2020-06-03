@@ -9,5 +9,5 @@ Contains schedule, slides and resources from journal club proceedings starting 3
 
 |**S. No.**|**Topic**|**Date**|
 |----------|---------|--------|
-|1  | Quantum computing with electrons on Helium|03/06/20|
+|1  | [Quantum computing with electrons on Helium](https://github.com/sanskritea/physkiss/tree/master/1)|03/06/20|
 |2 | Creating the largest telescopes in the world| *TBA* |
