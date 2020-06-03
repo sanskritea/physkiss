@@ -10,7 +10,9 @@ Contains schedule, slides and resources from journal club proceedings starting 3
         border: 1px solid black;
         }
 </style>
+
 **Schedule:**
+|----|----|---|
 |**S. No.**|**Topic**|**Date**|
 |----------|---------|--------|
 |1  | Quantum computing with electrons on Helium|03/06/20|
