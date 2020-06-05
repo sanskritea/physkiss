@@ -13,3 +13,4 @@ Contains schedule, slides and resources from journal club proceedings starting 3
 |2  | [Building the largest telescopes in the world](https://github.com/sanskritea/physkiss/tree/master/2) | 13/06/20 |
 |3 | Dark matter detection experiments with liquid Xenon| *TBA* |
 |4 | More than just beautiful patterns - when fluids go haywire| *TBA* |
+|5| Nanofabrication: from Silicon to cNOT|*TBA*|
